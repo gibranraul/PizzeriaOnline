@@ -1,0 +1,11 @@
+# Visual Studio / C# specific
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+*.msm
+*.msp
