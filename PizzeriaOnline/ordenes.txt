@@ -1,0 +1,30 @@
+mario2: Pizza hawaiana ($100MXN c/u) x 1
+mario: Pizza italiana ($300MXN c/u) x 2
+mario: Pizza con piña ($200MXN c/u) x 34
+luigibros: Pizza hawaiana ($100MXN c/u) x 5
+luigibros: Pizza con piña ($200MXN c/u) x 5
+luigibros: Pizza hawaiana ($100MXN c/u) x 100
+luigibros: Pizza italiana ($300MXN c/u) x 50
+mario: Pizza hawaiana ($100MXN c/u) x 1
+wario: Pizza hawaiana ($100MXN c/u) x 6
+juan: Pizza hawaiana ($100MXN c/u) x 6
+luis: Pizza con piña ($200MXN c/u) x 5
+luis: Pizza vegetariana ($1000MXN c/u) x 10
+luis: Pizza vegetariana ($1000MXN c/u) x 2
+luis: Pizza hawaiana ($100MXN c/u) x 5
+luis: Pizza vegetariana ($1000MXN c/u) x 5
+luis: Pizza vegetariana ($1000MXN c/u) x 8
+luis: Pizza con piña ($200MXN c/u) x 7
+luis: Pizza con carne ($500MXN c/u) x 7
+wario: Pizza con carne ($500MXN c/u) x 100
+wario: Pizza con carne ($500MXN c/u) x 89
+luis: Pizza con piña ($200MXN c/u) x 7
+luis: Pizza hawaiana ($100MXN c/u) x 7
+luis: Pizza hawaiana ($100MXN c/u) x 20
+carlos: Pizza con carne ($500MXN c/u) x 6
+juan: Pizza peperoni ($100MXN c/u) x 2
+juan123: Pizza con carne ($500MXN c/u) x 2
+juan123: Pizza peperoni ($100MXN c/u) x 1
+juan123: Pizza peperoni ($100MXN c/u) x 1
+miguel73: Pizza con carne ($500MXN c/u) x 10
+miguel73: Pizza vegetariana ($1000MXN c/u) x 13

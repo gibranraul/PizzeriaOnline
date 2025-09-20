@@ -1,0 +1,20 @@
+mario123:123 mario bros, reino champinon, 12345, 23432432, mario@gmail.com, 34643643677, 07/24, 543
+mario2:123 mario bros luigi, playas, 12345, 43534543, mariobros@yahoo.com, 2353643655, 06/27, 986
+luigibros:123 luigi, playas, 234234, 234324424, luigi@gmail.com, 3466546547, 10/29, 385
+godzilla33:123 Alexis Hernandes, Playas Carmen, 21344, 77564536, alexis@gmail.com, 252353554, 01/25, 678
+Juan123:123 Juan Hernandez playas del carmen, 2345, 34543543, juan@gmail.com, 235235235344, 02/28, 888
+Luigi134:123 luigi mauricio hernandez, playas de tijuana, 23445, 765765765, luigimau@gmail.com, 2352352353, 09/29, 222
+wario:123 warioman, casas beta, 23456, 453543543, warioman@gmail.com, 2353253253, 08/21, 465
+waluigi:1234 warioman, casas beta, 23456, 453543543, warioman@gmail.com, 2343252355, 07/16, 333
+maduro:vivalarevolucion nicolas maduro, venezuela, 23674, 4345435, maduro@gmail.com, 233325235352, 05/26, 475
+marcos:password marcos maidana, casas beta, 23456, 32423553, marcos@gmail.com, 235325235352, 04/25, 455
+juan:123 juan, fsdfsdgsd, agsg, 
+juanhdz:1223 juan hernandez, casas, 2342354, 235235253, juan@gmail.com, 234234234, 04-29, 333
+mario:mario1234 mario, fsf, sfsf, 1/2
+juanhdz123:pass juan hernande reyes, 23456, 12345, 777439844, juanhdz@gmail.com,2343255354356, 06/28, 285
+manuel:manu64 datos:manuel hernandez, casas playas, manuel@gmail.com, 1231245, 235354356, manu@gmail.com, 34235253255, 333, 04/24
+luis:lui55 datos:luis reyes, casas beta otay #435435, luisalberto@gmail.com, 35345, 7776667789, 23532532566, 333, 04/29
+carlos:carlitos68 datos:carlos valenzuela, casas beta otay mesa, carlos@gmail.com, 3254235, 53252532, 235235246, 444, 08/28
+marco:1234 datos:jeshua, aaaa, ajwqd@dewhf, 2213, 6643435, 2363984623498, 22/24, 555
+juan123:1234 datos:juanlopez, blvd otay, juan@gmail.com, 22453, 6642039434, 446474489643, 234, 03/24
+miguel73:password1 datos:miguel hernandez, casas beta, miguel@ggmail.com, 234566, 325356546, 3254366777, 233, 04/24
